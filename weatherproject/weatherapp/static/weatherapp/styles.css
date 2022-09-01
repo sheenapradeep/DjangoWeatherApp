@@ -1,0 +1,31 @@
+h1 {
+    color: white;
+}
+body {    background-color: rgba(128, 128, 128, 0.437);
+}
+
+.container {
+    width: 50%;
+    text-align: center;
+    border: 10px solid black;
+    height: 700px;
+}
+
+
+.card-body {
+    background-color:rgba(58, 58, 56, 0.809);
+    color:black;
+
+}
+
+button {
+  margin: 30px;
+  border-radius: 20px;
+  padding: 10px;
+  border: solid white;
+  background-color: white;
+}
+
+button:active {
+    background-color: rgba(172, 214, 214, 0.453);
+}

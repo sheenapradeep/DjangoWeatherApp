@@ -1,0 +1,24 @@
+h1 {
+    color: white;
+}
+body {    background-color: rgba(128, 128, 128, 0.437);
+}
+
+.container {
+    width: 50%;
+    text-align: center;
+    height: 900px;
+}
+
+
+.card-body {
+    background-color:rgba(58, 58, 56, 0.809);
+    color:black;
+    height: 300px;
+    border-radius: 20px;
+}
+
+.card-body p {
+    font-size: 20px;
+    color: whitesmoke;
+}
